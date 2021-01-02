@@ -113,47 +113,16 @@ A list of some extraordinary people who contributed to this project:
  - Catalan translation by Daniel Alomar
  - Spanish translation by Victor Bayas
 <br/>
-<br/>
 
 **Want to see your name here? Feel free to contribute!**
- 
- 
+
 # License
 This work is licensed under the GNU GPLv3 License. Different license-agreements can be made with the developer for parts of the app, if needed.
-
 
 Copyright (C) 2021 Daniel Wolf
 
 <br>
-<br>
 Please be aware that I'm not going to tolerate exact copies of this app on the Play Store. This project took a lot of work, not only from me, but many alpha/beta testers and translators. Copying is - per the license - generally allowed, but uploading a nearly identical version to the Play Store would be impersonation as per Google policy.
-
-# Third-party content
-This work contains third-party content, namely:
-- [sentry-java](https://github.com/getsentry/sentry-java) for crash-reporting
-   - License: [BSD 3-Clause revised ](https://opensource.org/licenses/BSD-3-Clause)
-- [Material Design Icons](https://material.io/tools/icons/)
-   - License: [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-   - The notification and launcher icons are remixes of the cloud icon
-- [Font Awesome icons](https://fontawesome.com/)
-   - License: Font Awesome Pro License, held by Daniel Wolf
-   - All icons used in Nebulo are also available under the [free license](https://fontawesome.com/license/free). Attribution is required if you don't hold a pro license (Nebulo does so in the credits)
-- [Weblate](https://weblate.org) for managing translations
-   - License: GPLv3
-- [FABProgressCircle](https://github.com/JorgeCastilloPrz/FABProgressCircle) for showing a loading indicator around floating action buttons
-   - License: [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-- [LeakCanary](https://github.com/square/leakcanary) for finding memory leaks
-   - License: [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-- [LeakSentry](https://github.com/square/leakcanary/tree/master/leakcanary-leaksentry) for finding memory leaks
-   - License: [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-- [Gson](https://github.com/google/gson)
-   - License: [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-- [OkHttp](https://github.com/square/okhttp)
-   - License: [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-- [AppIntro](https://github.com/AppIntro/AppIntro)
-   - License: [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-- [MiniDNS](https://github.com/MiniDNS/minidns)
-   - License: Free choice of [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0), [WTFPL](https://github.com/MiniDNS/minidns/blob/master/LICENCE_WTFPL) and [GPL2.1](https://github.com/MiniDNS/minidns/blob/master/LICENCE_LGPL2.1)
 
 # Cloning
 Feel free to clone this repository. However, there are a few things to consider:
